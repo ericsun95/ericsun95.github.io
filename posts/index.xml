@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Life is a journey</title>
-        <link>https://ericsun95.github.io/</link>
-        <description>Enter your personal description</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Apr 2022 15:46:51 -0500</lastBuildDate>
-            <atom:link href="https://ericsun95.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Life is a journey</title>
+        <link>https://ericsun95.github.io/posts/</link>
+        <description>All Posts | Life is a journey</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Apr 2022 15:46:51 -0500</lastBuildDate><atom:link href="https://ericsun95.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
     <link>https://ericsun95.github.io/posts/first_post/</link>
     <pubDate>Sat, 09 Apr 2022 15:46:51 -0500</pubDate>
