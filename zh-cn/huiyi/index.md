@@ -1,9 +1,9 @@
-# 回忆---似水年华
+# 回忆似水年华
 
 
-# 回忆---似水年华
+# 回忆似水年华
 
-<img src="/images/zh-cn/post1/img.png" width="2000" height="400" />
+<img src="/images/zh-cn/post1/img.png" width=100% height="600" />
 
 > 写于2013-8-24 09:47，高考刚毕业，迷茫成了人生的主旋律
 
