@@ -45,7 +45,7 @@ Harmony Air就在第一个Infinite Flight 附近，有着很详细的brochure，
 
 ![sunrise](/images/2022/flyfig/sunrise.JPG)
 
-![nightview](images/2022/flyfig/nightview.JPG)
+![nightview](/images/2022/flyfig/nightview.JPG)
 
 ![fog](/images/2022/flyfig/fog.JPG)
 
