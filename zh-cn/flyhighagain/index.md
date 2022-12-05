@@ -43,11 +43,11 @@ Harmony Air就在第一个Infinite Flight 附近，有着很详细的brochure，
 往往开到机场的时候天才会亮，红色的太阳缓缓的从东方升起，还有6点准时的军校国歌。
 很多时候不同的天气，也总能看到不同的风景。
 
-![sunrise](/data/2022/flyfig/sunrise.JPG)
+![sunrise](/images/2022/flyfig/sunrise.JPG)
 
-![nightview](/data/2022/flyfig/nightview.JPG)
+![nightview](images/2022/flyfig/nightview.JPG)
 
-![fog](/data/2022/flyfig/fog.JPG)
+![fog](/images/2022/flyfig/fog.JPG)
 
 
 #### 单飞
@@ -61,7 +61,9 @@ Do you bring your t-shirt? Are you ready for solo？Now it's your turn and I wil
 
 美国的驾校传统就是每个人第一次单飞之后，会留下你当时飞行的t-shirt，教练会custom你的t-shirt，画上各种图案然后挂在驾校的墙上留下记录。
 
-![](/data/2022/flyfig/solo.MOV)
+<video width="100%" controls>
+  <source src="/images/2022/flyfig/solo.mp4" type="video/mp4">
+</video>
 
 #### 单飞XC
 
@@ -99,7 +101,7 @@ radio call和change，这样才能在飞行过程中有备无患。飞行领域�
 
 在完整的攒满飞行时间之后，就是最后的checkride了。
 
-#### Written & CheckRide
+#### Written and CheckRide
 学飞的主要考试是两部分，written exam 和 checkride。Checkride一般是四个多小时，包含了2个小时的oral exam和两个小时的maneuver exam。
 Written exam的准备就是看POHA和sporty的视频。很直接，就是刷完题去考试。一般要求70分以上，越高越好。
 Checkride就更要求高一些，oral exam会从FAA Regulation开始，问到maneuver，sectional chart，weather，power & electric system等等。
